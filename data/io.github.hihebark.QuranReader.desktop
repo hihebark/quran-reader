@@ -5,6 +5,6 @@ Exec=quran-reader
 Icon=io.github.hihebark.QuranReader
 Terminal=false
 Type=Application
-Categories=Education;Religion;
+Categories=Education;
 Keywords=quran;islam;arabic;mushaf;reading;
 StartupWMClass=io.github.hihebark.QuranReader
