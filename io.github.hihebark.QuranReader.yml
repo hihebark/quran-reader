@@ -1,4 +1,4 @@
-app-id: io.github.hihebark.quran-reader
+app-id: io.github.hihebark.QuranReader
 runtime: org.gnome.Platform
 runtime-version: '50'
 sdk: org.gnome.Sdk
@@ -15,5 +15,5 @@ modules:
     buildsystem: meson
     sources:
       - type: git
-        url: https://github.com/hihebark/quran-reader.git
+        url: https://github.com/hihebark/QuranReader.git
         branch: main
